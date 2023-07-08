@@ -1,0 +1,6 @@
+my_region     = "us-east-2"
+profile       = "default"
+topic_name    = "sns-dev"
+endpoint      = "keitamariam1@gmail.com"
+protocol_type = "email"
+team          = "dev"
